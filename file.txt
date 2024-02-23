@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-This is master branch
+his is master branch
 
-This is content after merge conflict
 
-This is demo branch
->>>>>>> demo
